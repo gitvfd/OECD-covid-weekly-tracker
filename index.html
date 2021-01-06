@@ -50,18 +50,18 @@
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P5JSM4P" height="0" width="0"
                 style="display:none;visibility:hidden"></iframe></noscript>
         <!--End Google Tag Manager (noscript) -->
-	
-        <div id="modedemploi">
-            <div id="intromodedemploi">Select a country:
+        <div id="app">
+            <div id="modedemploi">
+                <div id="intromodedemploi">Select a country:
+                </div>
+                <div id="selCountry">
+                    <select id="country_dropdown" onchange="updateChart(value)">
+                    </select>
+                </div>
             </div>
-            <div id="selCountry">
-                <select id="country_dropdown" onchange="updateChart(value)">
-                </select>
-            </div>
+
+            <img id="weeklyTrackerchart" src="https://nicolaswoloszko.github.io/OECD-Weekly-Tracker/Figures/Weekly_Tracker_Argentina.png" class="chartPic"></img>
         </div>
-
-        <img id="weeklyTrackerchart" src="https://nicolaswoloszko.github.io/OECD-Weekly-Tracker/Figures/Weekly_Tracker_Argentina.png" class="chartPic"></img>
-
     </body>
     <script type="text/javascript">
 
