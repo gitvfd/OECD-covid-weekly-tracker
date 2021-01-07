@@ -1,75 +1,81 @@
-
-body{
-  background:#ffffff;
+body {
+  background: #ffffff;
 }
 
-#modedemploi{
-      background: #FFFFFF;
-      margin-left: 1em;
-      margin-bottom: 1em;
-      display: flex;
-      min-width:50%;
-     
+#modedemploi {
+  background: #FFFFFF;
+  margin-left: 1em;
+  margin-bottom: 1em;
+  display: flex;
+  min-width: 50%;
+
 }
 
-#intromodedemploi{
-    margin-left: 1.2em;
-      font-family: 'Oswald', sans-serif;
-      font-size: 1.5rem;
-      font-weight: 700;
-      color: #04629a;
+#intromodedemploi {
+  margin-left: 1.2em;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #04629a;
 }
 
-#selCountry{
-  padding:0.5rem;
-  margin-bottom:2px;
-  margin-left:25px;
-  border:solid;
+#selCountry {
+  padding: 0.5rem;
+  margin-bottom: 2px;
+  margin-left: 25px;
+  border: solid;
   border-width: 0px;
-  border-color:  #575757;
+  border-color: #575757;
   background-color: #ffffff;
   border-radius: 5px;
 }
 
 
-#country_dropdown{
+#country_dropdown {
   margin: 5px 5px 5px 5px;
-  padding:0.5rem;
+  padding: 0.5rem;
   max-width: 250px;
-  display:inline;
+  display: inline;
   font-family: 'Oswald', sans-serif;
   font-weight: 300;
   font-size: 1.25rem;
   color: #0b1e2d;
-  text-align:center;
-  letter-spacing:normal;
+  text-align: center;
+  letter-spacing: normal;
   vertical-align: baseline;
   cursor: pointer;
   text-shadow: rgba(0, 0, 0, 0.5) 0 0px 0;
-  background-color:#fff;/**#c3d1da;**/
-  border:none;
+  background-color: #fff;
+  /**#c3d1da;**/
+  border: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
 }
-.dropdown_text{
+
+.dropdown_text {
   display: inline-block;
-  margin-left:5px;
+  margin-left: 5px;
   font-family: 'Noto Sans', sans-serif;
   font-weight: 100;
   font-size: 1rem;
   color: #ffffff;
-  text-align:start;
-  padding:5px 25px 3px 0px;
+  text-align: start;
+  padding: 5px 25px 3px 0px;
 }
 
 
 
-.chartPic{
-  width:100%;
+.chartPic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 750px;
 }
+
 @media only screen and (max-width: 600px) {
   table {
-  min-width: 500px;  
-  overflow-x:auto;
+    min-width: 500px;
+    overflow-x: auto;
   }
 }
