@@ -1,49 +1,49 @@
-ISO	Country	url
-ARG	Argentina	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Argentina.png
-AUS	Australia	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Australia.png
-AUT	Austria	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Austria.png
-BEL	Belgium	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Belgium.png
-BRA	Brazil	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Brazil.png
-BGR	Bulgaria	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Bulgaria.png
-CAN	Canada	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Canada.png
-CHL	Chile	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Chile.png
-COL	Colombia	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Colombia.png
-CRI	Costa Rica	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Costa%20Rica.png
-CZE	Czech Republic	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Czech%20Republic.png
-DNK	Denmark	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Denmark.png
-EST	Estonia	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Estonia.png
-FIN	Finland	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Finland.png
-FRA	France	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_France.png
-DEU	Germany	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Germany.png
-GRC	Greece	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Greece.png
-HUN	Hungary	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Hungary.png
-ISL	Iceland	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Iceland.png
-IND	India	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_India.png
-IDN	Indonesia	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Indonesia.png
-IRL	Ireland	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Ireland.png
-ISR	Israel	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Israel.png
-ITA	Italy	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Italy.png
-JPN	Japan	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Japan.png
-KOR	Korea	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Korea.png
-LVA	Latvia	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Latvia.png
-LTU	Lithuania	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Lithuania.png
-LUX	Luxembourg	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Luxembourg.png
-MEX	Mexico	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Mexico.png
-NLD	Netherlands	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Netherlands.png
-NZL	New Zealand	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_New%20Zealand.png
-NOR	Norway	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Norway.png
-POL	Poland	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Poland.png
-PRT	Portugal	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Portugal.png
-ROU	Romania	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Romania.png
-RUS	Russia	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Russia.png
-SVK	Slovak Republic	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Slovak%20Republic.png
-SVN	Slovenia	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Slovenia.png
-ZAF	South Africa	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_South%20Africa.png
-ESP	Spain	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Spain.png
-SWE	Sweden	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Sweden.png
-CHE	Switzerland	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Switzerland.png
-TUR	Türkiye	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Türkiye.png
-GBR	United Kingdom	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_United%20Kingdom.png
-USA	United States	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_United%20States.png
-OECD	OECD	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_OECD.png
-EZ	Eurozone	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Eurozone.png
+ISO	Country	url	url2
+ARG	Argentina	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Argentina.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Argentina.png
+AUS	Australia	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Australia.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Australia.png
+AUT	Austria	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Austria.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Austria.png
+BEL	Belgium	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Belgium.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Belgium.png
+BRA	Brazil	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Brazil.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Brazil.png
+BGR	Bulgaria	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Bulgaria.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Bulgaria.png
+CAN	Canada	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Canada.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Canada.png
+CHL	Chile	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Chile.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Chile.png
+COL	Colombia	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Colombia.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Colombia.png
+CRI	Costa Rica	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Costa%20Rica.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Costa%20Rica.png
+CZE	Czech Republic	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Czech%20Republic.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Czech%20Republic.png
+DNK	Denmark	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Denmark.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Denmark.png
+EST	Estonia	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Estonia.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Estonia.png
+FIN	Finland	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Finland.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Finland.png
+FRA	France	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_France.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_France.png
+DEU	Germany	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Germany.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Germany.png
+GRC	Greece	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Greece.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Greece.png
+HUN	Hungary	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Hungary.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Hungary.png
+ISL	Iceland	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Iceland.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Iceland.png
+IND	India	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_India.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_India.png
+IDN	Indonesia	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Indonesia.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Indonesia.png
+IRL	Ireland	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Ireland.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Ireland.png
+ISR	Israel	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Israel.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Israel.png
+ITA	Italy	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Italy.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Italy.png
+JPN	Japan	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Japan.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Japan.png
+KOR	Korea	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Korea.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Korea.png
+LVA	Latvia	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Latvia.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Latvia.png
+LTU	Lithuania	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Lithuania.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Lithuania.png
+LUX	Luxembourg	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Luxembourg.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Luxembourg.png
+MEX	Mexico	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Mexico.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Mexico.png
+NLD	Netherlands	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Netherlands.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Netherlands.png
+NZL	New Zealand	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_New%20Zealand.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_New%20Zealand.png
+NOR	Norway	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Norway.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Norway.png
+POL	Poland	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Poland.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Poland.png
+PRT	Portugal	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Portugal.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Portugal.png
+ROU	Romania	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Romania.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Romania.png
+RUS	Russia	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Russia.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Russia.png
+SVK	Slovak Republic	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Slovak%20Republic.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Slovak%20Republic.png
+SVN	Slovenia	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Slovenia.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Slovenia.png
+ZAF	South Africa	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_South%20Africa.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_South%20Africa.png
+ESP	Spain	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Spain.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Spain.png
+SWE	Sweden	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Sweden.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Sweden.png
+CHE	Switzerland	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Switzerland.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Switzerland.png
+TUR	Türkiye	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Türkiye.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Türkiye.png
+GBR	United Kingdom	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_United%20Kingdom.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_United%20Kingdom.png
+USA	United States	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_United%20States.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_United%20States.png
+OECD	OECD	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_OECD.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_OECD.png
+EZ	Eurozone	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Eurozone.png	https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Eurozone.png
