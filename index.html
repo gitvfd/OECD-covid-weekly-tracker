@@ -98,10 +98,10 @@
     function updateChart(ISO){
 console.log(chartList)
 chartList.forEach(function(d){
-    if(d.ISO==ISO)
-	    
-    document.getElementById("weeklyTrackerchart_new").src  = d.url2;
-    document.getElementById("weeklyTrackerchart").src  = d.url;
+    if(d.ISO==ISO){
+    	document.getElementById("weeklyTrackerchart_new").src  = d.url2;
+    	document.getElementById("weeklyTrackerchart").src  = d.url;
+    }
 })
     }
     </script>
