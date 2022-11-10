@@ -60,6 +60,8 @@
                 </div>
             </div>
 
+            <img id="weeklyTrackerchart_new" src="https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_level_Argentina.png" class="chartPic"></img>
+	    <br/>
             <img id="weeklyTrackerchart" src="https://webfs.oecd.org/oecd_weekly_tracker/Figures/Weekly_Tracker_Argentina.png" class="chartPic"></img>
         </div>
     </body>
@@ -97,6 +99,8 @@
 console.log(chartList)
 chartList.forEach(function(d){
     if(d.ISO==ISO)
+	    
+    document.getElementById("weeklyTrackerchart_new").src  = d.url2;
     document.getElementById("weeklyTrackerchart").src  = d.url;
 })
     }
